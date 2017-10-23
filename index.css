@@ -1,0 +1,14 @@
+/*selected tag{
+poperty: value;
+}*/
+body{
+    color: rgb(199,216,45);
+}
+a{
+    font-family: cursive
+}
+h1{
+    color: indigo;
+    font-family: inherit;
+    font-size: 20px
+}
