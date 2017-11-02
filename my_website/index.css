@@ -1,0 +1,14 @@
+/*selected tag{
+poperty: value;
+}*/
+body{
+    background-color: rgb(114,225,222);
+}
+h1{
+    color: blue;
+    font-size: 70px
+}
+a{
+    font-size: 50px;
+    color: yellow;
+}

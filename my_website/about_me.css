@@ -1,0 +1,21 @@
+/*selected tag{
+poperty: value;
+}*/
+body{
+    background-color: rgb(255,178,45);
+}
+a{
+    font-size: 50px;
+    color: yellow;
+}
+h1{
+    font-size: 70px;
+    color: blue;
+}
+li{
+    font-size: 50px;
+    font-family: cursive;
+}
+div{
+    border: dashed 10px;
+}
